@@ -3,5 +3,5 @@
 
 int main(void)
 {
-    printf("hello,linux!\r\n");
+    printf*("hello,linux!\r\n");
 }
